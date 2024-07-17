@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <title>Alura Geek</title>
+
+</head>
+<body>
+    
+    <header class="header">
+        <figure class="header__logo">
+         <img src="./img/Logo.svg" alt="logo" class="footer__img">
+        </figure>
+    </header>
+    <main class="main">
+        <section class="section">
+            <h2 class="section__title">AGREGAR PRODUCTO:</h2>
+            <form  class="section__form" data-formulario>
+                <div class="section__value">
+                    <input name="nombre" id="nombre" type="text" class="section__input" placeholder="nombre..." data-name required >                
+                </div>
+                <div class="section__value">
+                    <input name="precio" id="precio" type="number" class="section__input" placeholder="precio..." data-price required >                
+                </div>
+                <div class="section__value">
+                    <input name="imagen" id="imagen" type="text" class="section__input" placeholder="imagen..." data-img required >                
+                </div>
+    
+                <div class="section__buttons">
+                    <input class="section__submit" type="submit" value="Enviar">
+                    <button class="section__clean">Limpiar</button>
+                </div>
+                <h3 class="section__addMessage">Agregado</h3>
+            </form>
+    
+        </section>
+
+        <div class="productCard" data-contenedor>
+            <h1 class="productCard__title">MIS PRODUCTOS: </h1>
+            <div class="productCard__container container" data-productos>
+              
+
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <figure class="footer__logo">
+            <img src="./img/Logo.svg" alt="Logo" class="footer__img">
+        </figure>
+        <div class="footer__developer">Desarollado por Miguel Ángel Madroñero </div>
+        <div class="footer__span">Alura Latam- 2024</div>
+    </footer>
+
+
+    <script src="./js/mostrarProductos.js" type="module"></script>
+    <script src="./js/crearProducto.js" type="module"></script>
+    <!-- <script src="./js/eliminarProducto.js" type="module"></script> -->
+</body>
+</html>

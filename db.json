@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "nombre": "CROP MESH TANK",
+      "precio": "30.00",
+      "img": "./img/imgProduct1.webp",
+      "id": "1"
+    },
+    {
+      "nombre": "CROP MESH TANK",
+      "precio": "20.00",
+      "img": "./img/imgProduct2.webp",
+      "id": "2"
+    },
+    {
+      "nombre": "CROP MESH TANK",
+      "precio": "45.00",
+      "img": "./img/imgProduct2.webp",
+      "id": "3"
+    },
+    {
+      "nombre": "BLUR SEAMLESS SHORTS",
+      "precio": "55.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/BlurSeamlessShortGSIrisBlue_GSPowderedLilacB9A2D-UCVV_1664x.jpg?v=1717571493",
+      "id": "4"
+    },
+    {
+      "nombre": "BLUR SEAMLESS BRALETTE",
+      "precio": "55.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/BlurSeamlessLowBraletteGSIrisBlue_GSPowderedLilacB9A2F-UCVV1_384x.jpg?v=1717571493",
+      "id": "5"
+    },
+    {
+      "nombre": "VITAL SEAMLESS 2.0 V ",
+      "precio": "45.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/VitalSeamlessSportsBraAwBlackMarlBlackMarlB3A4K-BBF3-1311_9b149b64-3f1a-4d14-af56-4e23de969d99_1664x.jpg?v=1702281430",
+      "id": "6"
+    },
+    {
+      "nombre": "VITAL SEAMLESS 1.0 V",
+      "precio": "47.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/VitalSeamlessSportsBraAwBrightFuchsia-MarlB3A4K-KBM5.81_2538fca1-1bd1-4b74-ad18-4b8d026d2266_1664x.jpg?v=1686821446",
+      "id": "7"
+    },
+    {
+      "nombre": "FRACTION SPORTS BRA",
+      "precio": "46.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/products/GfxFractionSportsBraWhiteB3A6Y-WBBM-0902.92_5f6561a4-4a84-425e-9e40-cec23185c2cd_1664x.jpg?v=1674463026",
+      "id": "8"
+    },
+    {
+      "nombre": "FRACTION SPORTS BRA",
+      "precio": "46.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/products/GfxFractionSportsBraWhiteB3A6Y-WBBM-0902.92_5f6561a4-4a84-425e-9e40-cec23185c2cd_1664x.jpg?v=1674463026",
+      "id": "9"
+    },
+    {
+      "nombre": "SWEAT SEAMLESS",
+      "precio": "60",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/SweatSeamlessLonglineSportsBraGSWashedStoneBrownB4A5B-NBY51186_5e70d935-d009-4c11-b84f-55440590efb8_1664x.jpg?v=1701441715",
+      "id": "10"
+    },
+    {
+      "nombre": "SWEAT SEAMLESS",
+      "precio": "20.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/SweatSeamlessLonglineBraBlack-B4A5B-BBBB-0552.50_8990e9d1-583f-4d99-99a1-c27cd5cc3d11_1664x.jpg?v=1702639262",
+      "id": "11"
+    },
+    {
+      "id": "3db9",
+      "nombre": "HALTERNECK CROP",
+      "precio": "40.00",
+      "img": "https://cdn.shopify.com/s/files/1/1367/5207/files/HalterneckCropCamiTankGSWhiteB7A1A-WB57-1920_384x.jpg?v=1711444375"
+    }
+  ]
+}
